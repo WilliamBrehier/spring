@@ -1,0 +1,8 @@
+03-04-2023 11:26:59.818 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils.detectDefaultConfigurationClasses - Could not detect default configuration classes for test class [fr.brehierwilliam.cefim.CefimApplicationTests]: CefimApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+03-04-2023 11:26:59.893 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper.getOrFindConfigurationClasses - Found @SpringBootConfiguration fr.brehierwilliam.cefim.CefimApplication for test class fr.brehierwilliam.cefim.CefimApplicationTests
+03-04-2023 11:27:00.115 [main] INFO  f.b.cefim.CefimApplicationTests.logStarting - Starting CefimApplicationTests using Java 19.0.1 with PID 19164 (started by brehi in C:\Users\brehi\Desktop\CEFIM_2\Spring\cefim\cefim)
+03-04-2023 11:27:00.117 [main] INFO  f.b.cefim.CefimApplicationTests.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+03-04-2023 11:27:00.759 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext.log - Initializing Spring TestDispatcherServlet ''
+03-04-2023 11:27:00.759 [main] INFO  o.s.t.w.s.TestDispatcherServlet.initServletBean - Initializing Servlet ''
+03-04-2023 11:27:00.760 [main] INFO  o.s.t.w.s.TestDispatcherServlet.initServletBean - Completed initialization in 1 ms
+03-04-2023 11:27:00.776 [main] INFO  f.b.cefim.CefimApplicationTests.logStarted - Started CefimApplicationTests in 0.798 seconds (process running for 1.457)
